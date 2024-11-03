@@ -1,0 +1,225 @@
+
+element {
+}
+.menu ul li {
+  position: relative;
+
+  margin: 0 0 12px 0;
+
+  padding: 0;
+
+  text-align: center;
+
+  display: block;
+
+}
+p, li, a {
+  font: var(--font-size-text)/var(--line-height-text) var(--font-primary-light);
+
+  color: var(--color-text);
+
+  margin-bottom: 2.0rem;
+
+}
+a, i, i::before, ::before, ::after, img, input, select, textarea, button, .button, iframe, svg, svg *, header, header * {
+  -webkit-transition: all 0.2s ease-out;
+
+  -o-transition: all 0.2s ease-out;
+
+  transition: all 0.2s ease-out;
+
+}
+*, ::before, ::after {
+  margin: 0;
+
+  padding: 0;
+
+  -webkit-box-sizing: border-box;
+
+  box-sizing: border-box;
+
+  -webkit-font-smoothing: antialiased;
+
+}
+.menu ul {
+  list-style: none;
+
+  text-align: center;
+
+}
+.menu {
+  text-align: center;
+
+}
+body, html {
+  font-family: var(--font-primary);
+
+}
+body {
+  font-family: sans-serif;
+
+  font-size: 1rem;
+
+  font-weight: 400;
+
+  line-height: 1.5;
+
+  color: #000;
+
+  text-align: left;
+
+}
+:root {
+  --color-primary: #8aae52;
+
+  --color-secondary: #608a1d;
+
+  --color-bg: #fff;
+
+  --color-bg-secondary: #f4f4f2;
+
+  --color-lists: #f4f4f2;
+
+  --color-text: #292115;
+
+  --color-heading: #292115;
+
+  --color-subheading: #b4b4b3;
+
+  --color-grey: #b4b4b3;
+
+  --color-light-grey: #aaa8a6;
+
+  --font-primary: Pebble SFPro, sans-serif;
+
+  --font-primary-medium: Pebble SFPro Medium, sans-serif;
+
+  --font-primary-light: Pebble SFPro Light, sans-serif;
+
+  --font-primary-bold: Pebble SFPro Semibold, sans-serif;
+
+  --font-secondary: Pebble Silk Serif, serif;
+
+  --font-icons: Pebble Icons;
+
+  --font-size-h1: 3.0rem;
+
+  --font-size-h1-small: 6.5rem;
+
+  --font-size-h2: 8.5rem;
+
+  --font-size-h3: 4rem;
+
+  --font-size-h4: 3rem;
+
+  --font-size-h5: 1.8rem;
+
+  --font-size-text: 2rem;
+
+  --font-size-text-small: 1.2rem;
+
+  --font-size-text-xl: 7.2rem;
+
+  --font-size-text-review: 1.8rem;
+
+  --font-size-text-copyright: 1.6rem;
+
+  --font-size-text-price: 2rem;
+
+  --font-size-btn: 2.4rem;
+
+  --line-height-h1: 3.5rem;
+
+  --line-height-h1-small: 6rem;
+
+  --line-height-h2: 8rem;
+
+  --line-height-h3: 4.4rem;
+
+  --line-height-h4: 3.5rem;
+
+  --line-height-h5: 2.4rem;
+
+  --line-height-text: 2.8rem;
+
+  --line-height-text-small: 2.2rem;
+
+  --line-height-text-xl: 7.2rem;
+
+  --line-height-text-review: 3.0rem;
+
+  --line-height-text-copyright: 1.6rem;
+
+  --line-height-text-price: 2rem;
+
+  --line-height-btn: 2.4rem;
+
+  --centre-width: 1455px;
+
+  --centre-width-1150: 1150px;
+
+  --section-padding: 10% 0;
+
+  --section-padding-top: 10% 0 0 0;
+
+  --section-padding-half-top: 7% 0 0 0;
+
+  --section-padding-bottom: 0 0 10% 0;
+
+  --section-padding-half-bottom: 0 0 6.5% 0;
+
+  --section-padding-half: 5% 0;
+
+  --section-padding-text: 7% 0 6.5% 0;
+
+  --content-padding: 4.0rem;
+
+  --header-height: 10.0rem;
+
+  --book-panel-height: 32rem;
+
+  --slideshow-homepage-height: 100vh;
+
+  --slideshow-subpage-height: 90vh;
+
+}
+html {
+  font-size: 62.5%;
+
+}
+html {
+  font-family: sans-serif;
+
+  line-height: 1.15;
+
+  -webkit-text-size-adjust: 100%;
+
+}
+
+Overlay Grid
+
+Grid Display Settings
+
+position
+margin
+border
+padding
+
+350×28
+350×28
+relative
+box-sizing
+border-box
+display
+block
+float
+none
+line-height
+28px
+position
+relative
+offsetdiv.et_pb_text_inner.menu.section-transform.section-transform-active
+
+    z-index
+    auto
+
